@@ -6,6 +6,11 @@ The app contains in-app purchases (IAP), a dual-currency system, and a progressi
 
 This open source release contains the complete Frever ecosystem: Unity client, backend, bridge, CMS, asset manager, and a wide array of production assets including 3D wardrobe packs, animation libraries, and shader libraries. It is intended for developers and researchers working on avatar systems, content creation pipelines, or social creative platforms at scale.
 
+<img src="https://github.com/user-attachments/assets/b7df7e8c-026d-4c3d-b303-d992771ca94b" width="40%"/>
+<img src="https://github.com/user-attachments/assets/dcd77f65-a4c7-4152-9311-042f6991af08" width="40%"/>
+<img src="https://github.com/user-attachments/assets/62807482-82ec-44c0-93a4-cf737548c71a" width="40%"/>
+<img src="https://github.com/user-attachments/assets/1e94d080-d2c4-4406-8869-93fb533cbe7b" width="40%"/>
+
 ---
 
 ## Repository Overview
@@ -28,7 +33,7 @@ This open source release contains the complete Frever ecosystem: Unity client, b
 
 ### UI Design System
 
-- **Frever UI (Figma)** – Coming soon (offline file will be provided)
+- [Frever UI in Figma](https://drive.google.com/file/d/1Ya4klcq_1r8xJiF2xq5jYFAmA4J5Ap3n/view?usp=drive_link)
 
 ### Art Overview
 - [3D Artist Pipeline guide](https://docs.google.com/presentation/d/1d0fapISPrhl_ed6fj6QQ55bIdNA2Un1IPRm9h4tx2t8/edit?usp=sharing)
