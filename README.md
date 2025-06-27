@@ -35,6 +35,10 @@ This open source release contains the complete Frever ecosystem: Unity client, b
 
 - [Frever UI in Figma](https://drive.google.com/file/d/194ggsbf4l-w6XgtlMzc9QzGmuBvKdOxb/view?usp=drive_link)
 
+### Screen Recordings
+
+- [Features overview](https://drive.google.com/drive/folders/1VsN0YGfTM9SD57BHrsVrFbYnH4kVFQyD)
+
 ### Art Overview
 - [3D Artist Pipeline guide](https://docs.google.com/presentation/d/1d0fapISPrhl_ed6fj6QQ55bIdNA2Un1IPRm9h4tx2t8/edit?usp=sharing)
 
